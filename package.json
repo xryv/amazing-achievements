@@ -1,0 +1,11 @@
+{
+  "name": "amazing-achievements",
+  "version": "1.0.0",
+  "description": "Repo to unlock GitHub achievements via solo workflows.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {}
+}
