@@ -19,4 +19,8 @@ Small repo engineered to unlock GitHub achievements (solo-friendly):
 ```bash
 npm install
 npm test
+```
 
+## Scripts
+
+- `npm test` — run the test suite
